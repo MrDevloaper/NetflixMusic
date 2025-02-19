@@ -126,7 +126,7 @@ We welcome contributions from the community! To contribute:
 1. **Fork** this repository.
 2. **Create a feature branch** for your updates.
 3. **Make your changes** and commit with a clear message.
-4. **Submit a pull request** to our `main` branch.
+4. **Submit a pull request** to our `master` branch.
 5. Our team will review and merge your contributions.
 
 For queries, reach out to us on [Telegram](https://t.me/Netflix_Music_Support).
