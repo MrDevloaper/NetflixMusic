@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamNetflix/NetflixMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/NetflixMusic?style=for-the-badge&color=blue" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/TeamNetflix/NetflixMusic?style=for-the-badge&color=blue" alt="GitHub forks">
   <img src="https://img.shields.io/github/issues/TeamNetflix/NetflixMusic?style=for-the-badge&color=red" alt="GitHub issues">
   <img src="https://img.shields.io/github/license/TeamNetflix/NetflixMusic?style=for-the-badge&color=green" alt="GitHub license">
